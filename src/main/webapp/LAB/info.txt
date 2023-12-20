@@ -1,0 +1,7 @@
+
+
+mem테이블 
+name, age, weight, phone,
+
+LAB에서 save1.jsp : Statment 객체 로 DB에 값 저장
+LAB에서 save2.jsp : PreparedStatment  사용
